@@ -1,0 +1,5 @@
+ua\lviv\iot\spring\first\rest\dataaccess\StorageRepository.class
+ua\lviv\iot\spring\first\rest\RestApplication.class
+ua\lviv\iot\spring\first\rest\controller\StorageController.class
+ua\lviv\iot\spring\first\rest\model\Thermos.class
+ua\lviv\iot\spring\first\rest\service\StorageService.class
